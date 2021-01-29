@@ -2,6 +2,9 @@
 node_modules
 /dist
 
+# web3 stuff
+cache
+
 
 # local env files
 .env.local
